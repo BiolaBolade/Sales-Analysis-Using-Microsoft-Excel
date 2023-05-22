@@ -10,5 +10,5 @@ I dived into the sales of G 'n' G fashion store to know the sales by state, mana
 - Power Query
 - Data Modelling
 - Visulization. 
-
-![]()
+-------------------------------
+![](https://github.com/BiolaBolade/Sales-Analysis-Using-Microsoft-Excel/blob/main/Sales%20Analysis%20Excel/G%20n%20G.png)
